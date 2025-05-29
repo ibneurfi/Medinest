@@ -1,9 +1,9 @@
 # Sanjivani
-Hello everyone, I am **Kanak Negi** and this is my final project for Future Ready Talent Virtual Internship.
+Hello everyone, I am **Khalid Saifullah** and this is my final project for Future Ready Talent Virtual Internship.
 
 **Industry:** Health
 
-**Project Title:** Sanjivani
+**Project Title:** Medinest
 
 **Problem Statement/Opportunity:**
 These days, due to the pandemic, there has been a great increase in no of patients in the hospitals and one must wait a lot to get any test done. It has become difficult in the selection of suitable medicine for the type of illness and this usually takes time and makes the patient or customer wait. Therefore, the time is being wasted for the customer to be waiting.
@@ -20,6 +20,6 @@ Since we are entering details of the patients electronically in the Hospital Man
 It easily reduces the bookkeeping task and thus reduces the human effort and increases accuracy speed due to this pandemic. It will be easier for the doctors and patients to book the appointment as well as we can read the patient’s review. The website offers many services like Free Checkups, 24/7 Ambulance, Bed Facilities, etc.
 
 **Technologies Used:** 
-Azure Storage Container (Static Website), Azure Cosmos DB, Function App, HTML, CSS, JavaScript
+HTML, CSS, JavaScript
 
 **Thank You!**
