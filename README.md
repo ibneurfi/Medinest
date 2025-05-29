@@ -1,4 +1,4 @@
-# Sanjivani
+# Medinest
 Hello everyone, I am **Khalid Saifullah** and this is my final project for Future Ready Talent Virtual Internship.
 
 **Industry:** Health
