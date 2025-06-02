@@ -23,3 +23,6 @@ It easily reduces the bookkeeping task and thus reduces the human effort and inc
 HTML, CSS, JavaScript
 
 **Thank You!**
+
+## Departments Page
+A new `departments.html` page lists doctors grouped by department. Each department showcases at least five doctors for easy reference.
